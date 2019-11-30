@@ -11,7 +11,7 @@ you cant type here
 [![PrankBots](https://img.fireden.net/v/image/1461/72/1461725093324.gif "Prankbots")](https://bit.ly/2xbVxlh)
 
 - hastag : Acil Prankbots or prankbots
-- my bloger : https://prankbots.bloger.com
+- my bloger : https://prankbot.blogspot.com
 - Commander
 - todo
 - sp
